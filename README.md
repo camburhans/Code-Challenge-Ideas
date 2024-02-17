@@ -3,6 +3,31 @@ A personal repository for storing coding challenge ideas. Browse through a colle
 
 # Python <img src="https://github.com/camburhans/Code-Challenge-Ideas/blob/main/images/Python-logo-notext.png" alt="Python Logo" width="30">
 ## Code Objectives
+
+### Animal Encyclopedia
+Develop a program that functions like a mini-encyclopedia for animals. The user can input the animal name and the program should return a brief description of that animal along with one unique fact about it. The information can be stored within the program as a dictionary, SQL database, etc. The user should also be able to add, delete, or modify the existing entries.
+
+> **TIPS:**
+> - Consider using a dictionary or similar key-value pair data structure for storing the animal data.
+> - Add functionalities for searching, updating, and deleting entries.
+> - Think about data validation to ensure that user entry follows a consistent format.
+
+### Math Tutor for Kids
+Create a simple math quiz program that will generate two random single-digit numbers and ask the user (a child learning basic arithmetic) to add, subtract or multiply them. If the user answers correctly, the program should congratulate them and present another question. If the user answers incorrectly, the program should give the correct answer and ask a new question.
+
+> **TIPS:**
+> - Use random generation for creating the math problem numbers.
+> - Include both positive and cheerful responses.
+> - Consider limiting answer attempts or providing hints after several incorrect tries.
+
+### Galactic Travel Agency
+Imagine you own a galactic travel agency. Create a program that allows users to "book" interstellar trips. The program lists imaginary planets a user can visit, each with a distinct distance from Earth (in light years). The user should be able to choose a destination, and the program calculates the time it'll take to reach that planet based on different spaceship speeds. Make sure to account for the fact that 1 light year is the distance that light travels in a year.
+
+> **TIPS:**
+> - Consider using a dictionary structure for storing the planetary data.
+> - Don’t forget to convert light years to human years when calculating travel time.
+> - Ensure that the spaceship speed input matches an appropriate and logical range.
+
 ## Code Challenges
 
 # Java <img src="https://github.com/camburhans/Code-Challenge-Ideas/blob/main/images/java-logo-vector-1.svg" alt="Java Logo" width="50">
