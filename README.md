@@ -6,7 +6,7 @@ A personal repository for storing coding challenge ideas. Browse through a colle
 1. 
 ## Code Challenges
 
-# Java 
+# Java <img src="https://github.com/camburhans/Code-Challenge-Ideas/blob/main/images/java-logo-vector-1.svg" alt="Java Logo" width="40">
 ## Code Objectives
 ## Code Challenges
 
